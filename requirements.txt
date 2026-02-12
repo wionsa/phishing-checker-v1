@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+python-dotenv
+g4f
+typing-extensions
+curl_cffi
+markdown
